@@ -3,10 +3,28 @@
   
     
     <entry>
+      <title>UtilWorld</title>
+      <link href="/2018/07/22/UtilWorld/"/>
+      <url>/2018/07/22/UtilWorld/</url>
+      <content type="html"><![CDATA[<ul><li><p>ScreenCapture </p><ul><li>ShareX<ul><li><a href="https://getsharex.com/" target="_blank" rel="noopener">https://getsharex.com/</a></li></ul></li></ul></li><li><p>FileExplorer</p><ul><li>Nexus File<ul><li><a href="http://www.xiles.net/" target="_blank" rel="noopener">http://www.xiles.net/</a> </li></ul></li></ul></li><li><p>Launcher</p><ul><li>Keypirinha<ul><li><a href="http://keypirinha.com/" target="_blank" rel="noopener">http://keypirinha.com/</a></li></ul></li></ul></li><li><p>Shortcut script</p><ul><li><a href="https://autohotkey.com/" target="_blank" rel="noopener">https://autohotkey.com/</a> </li></ul></li></ul>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>ElectronVue</title>
+      <link href="/2018/07/22/ElectronVue/"/>
+      <url>/2018/07/22/ElectronVue/</url>
+      <content type="html"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>first-post</title>
       <link href="/2018/07/22/first-post/"/>
       <url>/2018/07/22/first-post/</url>
-      <content type="html"><![CDATA[<h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><p>This is first blog </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g --d</span><br></pre></td></tr></table></figure><h2 id="Hexo-Links"><a href="#Hexo-Links" class="headerlink" title="Hexo Links."></a>Hexo Links.</h2><ul><li><p>Hueman 테마 적용하기<br><a href="https://simhyejin.github.io/2016/06/24/hexo-themes/" target="_blank" rel="noopener">https://simhyejin.github.io/2016/06/24/hexo-themes/</a></p></li><li><p>Hexo with Githug<br><a href="https://kdydesign.github.io/2017/06/23/start-hexo-blog/" target="_blank" rel="noopener">https://kdydesign.github.io/2017/06/23/start-hexo-blog/</a> </p></li><li><p>Hexo with Clean-blog theme<br><a href="https://seongbin9786.github.io/2018/01/01/Hexo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/" target="_blank" rel="noopener">https://seongbin9786.github.io/2018/01/01/Hexo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</a> </p></li></ul>]]></content>
+      <content type="html"><![CDATA[<h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><p>This is first blog </p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &lt;포스트명&gt;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g --d</span><br></pre></td></tr></table></figure><h2 id="Hexo-Links"><a href="#Hexo-Links" class="headerlink" title="Hexo Links."></a>Hexo Links.</h2><ul><li><p>Starting Hexo<br><a href="https://hyunseob.github.io/2016/02/23/start-hexo/" target="_blank" rel="noopener">https://hyunseob.github.io/2016/02/23/start-hexo/</a></p></li><li><p>Hueman 테마 적용하기<br><a href="https://simhyejin.github.io/2016/06/24/hexo-themes/" target="_blank" rel="noopener">https://simhyejin.github.io/2016/06/24/hexo-themes/</a></p></li><li><p>Hexo with Githug<br><a href="https://kdydesign.github.io/2017/06/23/start-hexo-blog/" target="_blank" rel="noopener">https://kdydesign.github.io/2017/06/23/start-hexo-blog/</a> </p></li><li><p>Hexo with Clean-blog theme<br><a href="https://seongbin9786.github.io/2018/01/01/Hexo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/" target="_blank" rel="noopener">https://seongbin9786.github.io/2018/01/01/Hexo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</a> </p></li></ul>]]></content>
       
       
     </entry>
